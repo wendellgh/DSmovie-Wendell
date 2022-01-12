@@ -1,8 +1,11 @@
+import {ReactComponent as Githubicon} from '../../assets/img/githib.svg';
+import Navbar from '../src/components/Navbar/index'
+
 
 
 function App() {
   return (
-  <h1>Página principal</h1>
+   <Navbar/>
   );
 }
 
